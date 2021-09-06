@@ -8,7 +8,8 @@ This repository try to explain a simple short method to solve the heat equation 
 ## I] Solution of the heat equation in 1 dimensional case
 
 
-![Test](alu_1D.png)
+![](alu_1D.png)
+![](1D_alu.mp4)
 
 
 
