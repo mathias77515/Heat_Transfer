@@ -9,7 +9,7 @@ This repository try to explain a simple short method to solve the heat equation 
 
 
 ![](alu_1D.png)
-![](1D_alu.mp4)
+![](movies/1D_alu.mp4)
 
 
 
