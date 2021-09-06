@@ -7,4 +7,9 @@ This repository try to explain a simple short method to solve the heat equation 
 
 ## I] Solution of the heat equation in 1 dimensional case
 
-$\frac{x}{y}$
+
+![Test](im/alu_1D.png)
+
+
+
+
